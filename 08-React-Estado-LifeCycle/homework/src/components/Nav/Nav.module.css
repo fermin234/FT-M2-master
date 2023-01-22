@@ -1,0 +1,40 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+.navbar {
+  background-color: rgb(166, 166, 166);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo_texto {
+  display: flex;
+  position: absolute;
+  left: 0px;
+}
+
+.logo_texto {
+  display: flex;
+  position: absolute;
+  left: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  gap: 10px;
+}
+
+.searchbar {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right: 15px;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}

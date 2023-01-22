@@ -1,0 +1,59 @@
+.btnclose{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(255, 0, 0, 0.564);
+    border-radius: 2.5px;
+    border: white;
+    color: white;
+    justify-content: center;
+}
+
+.cardconteiner{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    position: relative;
+    width: 300px;
+    border: solid black 1px;
+    border-radius: 15px;
+    background-color: rgba(0, 255, 255, 0.144);
+}
+
+.card:hover{
+    border: red;
+}
+
+.card h2{
+    text-align: center;
+}
+
+.temperaturas{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card h3{
+    font-size: 20px;
+    text-align: center;
+}
+
+.img{
+    width: 70px;
+}
+
+.temperaturas ul{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px;
+
+}
+
+.temperaturas li{
+    padding: 0px;
+    margin: 0px;
+}

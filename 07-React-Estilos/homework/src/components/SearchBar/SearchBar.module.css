@@ -1,0 +1,16 @@
+.searchbar{
+    display: flex;
+    justify-content: center;
+}
+
+.boton{
+    color: green;
+    border: green;
+    background-color: rgba(128, 128, 128, 0.508);
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.input{
+    border-radius: 10px;
+}

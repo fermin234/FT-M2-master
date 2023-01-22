@@ -1,0 +1,28 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+.About {
+  background-color: #2d3236;
+  width: 65px;
+  height: 30px;
+  border: 2px solid white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.About:hover {
+  background-color: #3f4951;
+  border: 2px solid #2d3236;
+}
+
+span {
+  border: 2px solid #2d323600;
+}
+
+
+
